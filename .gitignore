@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+target/
+src/test/
+../../../../persistence.xml
+../../../hibernate.cfg.xml
